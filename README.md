@@ -1,4 +1,7 @@
-### Hi there 👋
+👋 Bonjour, je suis @Speanight.
+📖 J'étudie dans une école d'ingénieur, l'ISEN.
+💻 Ma passion pour l'informatique est principalement dans la découverte de nouveaux domaines, mais aussi dans le code et le montage vidéo.
+📩 Si vous souhaitez me contacter, vous pouvez le faire par mail à speanight.mlp@gmail.com ou sur discord à Furball#1989.
 
 <!--
 **Speanight/Speanight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
